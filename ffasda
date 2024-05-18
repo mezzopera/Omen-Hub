@@ -1,9 +1,5 @@
 
 
--- # all credits go to linemaster fix by blue.lol on discord, ignore horrid source
-
-
-
 if (not LPH_OBFUSCATED) then
     LPH_NO_VIRTUALIZE = function(...) return (...) end;
     LPH_JIT_MAX = function(...) return (...) end;
