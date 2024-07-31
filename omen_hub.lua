@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/semmiww/Omen-Hub/main/omen.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/semmiww/OmenHub/main/omen.lua"))()
