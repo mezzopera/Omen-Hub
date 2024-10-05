@@ -1,5 +1,5 @@
 🎮 OMEN HUB - Your One-Stop Roblox Scripting Hub 🎮
-Elevate your Roblox experience with our extensive collection of scripts for top executors like 🌕 Moon, 🌊 Wave and ☀️ Solara.
+Elevate your Roblox experience with our extensive collection of scripts for top executors like 🌕Luna, 🌊 Wave and ☀️ Solara.
 
 Unlock a wealth of game-changing features:
 👀 ESP to see enemies through walls
